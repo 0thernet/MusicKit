@@ -2,6 +2,10 @@
 
 MusicKit is a framework and DSL for creating, analyzing, and transforming music in Swift.
 
+My current work is at [Hraness](https://hraness.com/), including
+[Dawn](https://dawnav.com), a TypeScript music SDK and CLI.
+Dawn is a private preview; [installation requires access](https://dawnav.com/install).
+
 ### Examples
 
 **Functional harmony**
